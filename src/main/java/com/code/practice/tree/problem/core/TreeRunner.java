@@ -1,5 +1,10 @@
 package com.code.practice.tree.problem.core;
 
+/**
+ * KNOWLEDGE :: Tree implementation and many different tree functionality 
+ * 
+ * @author jaykishan.mehta
+ */
 public class TreeRunner {
 
 	public static void main(String[] args) {

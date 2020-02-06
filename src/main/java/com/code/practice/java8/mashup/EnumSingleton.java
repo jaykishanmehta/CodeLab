@@ -1,5 +1,10 @@
 package com.code.practice.java8.mashup;
 
+/**
+ * KNOWLEDGE:: ENUM singleton
+ *  
+ * @author jaykishan.mehta
+ */
 public enum EnumSingleton {
 	INSTANCE;
 	

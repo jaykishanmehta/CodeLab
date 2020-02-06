@@ -1,5 +1,10 @@
 package com.code.practice.java8.problem;
 
+/**
+ * KNOWLEDGE :: Find second highest value from list using Java8 Reduce. (Custom Reduce Example)
+ *  
+ * @author jaykishan.mehta
+ */
 public class SecondHighest {
 	private Integer highest;
 	private Integer secondHighest;

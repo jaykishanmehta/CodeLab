@@ -1,4 +1,5 @@
 package com.code.practice.java8.problem;
+
 public class NthLargest {
 
 	int array[] = { 10, 19, 2, 3, 1, 98, 75, 65, 8500, 850000 };
