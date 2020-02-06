@@ -1,9 +1,5 @@
 package com.code.practice;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.concurrent.ConcurrentHashMap;
-
 public interface Sample {
 	int x = 1;
 	
@@ -15,8 +11,10 @@ public interface Sample {
 		
 		A a = new A();
 		a.sample();
-		
-		
+
+		/**
+		 * KNOWLEDGE :: WHICH method will be called if we have two overloaded method of parameter (String, Object)
+		 */
 		testMethod("1");
 		testMethod(3);
 	}
